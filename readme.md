@@ -10,6 +10,7 @@
 - Scrapes high quality proxies
 - Cross platform
 - AntiBan
+- Ratelimit bypass script! 
 
 
 
