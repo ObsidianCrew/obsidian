@@ -1,5 +1,5 @@
 
-# Obsidian NitroCracker 
+# ✨ Obsidian NitroCracker ✨ 
 ![App Screenshot](https://media.discordapp.net/attachments/771500107438489611/929807664341475328/unknown.png?width=1155&height=655)
 
 
